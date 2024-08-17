@@ -7,7 +7,7 @@
 - Experienced Game Dev, Full Stack Engineer, and Data Scientist
 
 ## About
-Hey! My name is Zihao Wang. I'm a student at the University Of Michigan studying CS and Math. Currently, I'm develop mainly in C++, C#, and Python. I have a lot of experience with Game Dev, System and Web Engineering, and Data Science!
+Hey! My name is Zihao Wang. I'm a student at the University Of Michigan studying CS and Math. Currently, I develop mainly in C++, C#, and Python. I have lots of experience with Game Dev, System and Web Engineering, and Data Science!
 
 ## Contact
 Write your "Contact" section here.
