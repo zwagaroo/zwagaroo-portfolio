@@ -4,16 +4,16 @@
 ## Header
 - Hi, my name is ZW. 
 - I'm a software engineer.
-- Short Description Here.
+- Experienced Game Dev, Full Stack Engineer, and Data Scientist
 
 ## About
-Write your "About" section here.
+Hey! I'm a student at the University Of Michigan studying Computer Science and Math. Currently, I'm develop mainly in C++, C#, and Python. I have a lot of experience with Game Dev, System and Web Engineering, and Data Science!
 
 ## Contact
 Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+- LinkedIn: https://www.linkedin.com/in/zhwang03/
+- GitHub: https://github.com/zwagaroo
+- Email: zhwang2003@gmail.com
 
 ## Logo
 - ZW

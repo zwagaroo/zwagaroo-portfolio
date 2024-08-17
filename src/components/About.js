@@ -5,6 +5,7 @@ import {
   Container,
   Box,
   HStack,
+  Image
 } from "@chakra-ui/react";
 import ProfileArray from "./ProfileArray";
 
@@ -29,9 +30,17 @@ export default function About({ color }) {
               <Divider orientation="horizontal" />
             </Stack>
             <Box>
+            <HStack>
+            <Image
+              borderRadius='full'
+              boxSize='150px'
+              src='Zihao.jpg'
+              alt='Zihao Wang'
+            />
             <Text color={"gray.600"} fontSize={"xl"} px={4}>
               {profile.about}
             </Text>
+            </HStack>
             </Box>
           </Stack>
         </Container>
