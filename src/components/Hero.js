@@ -24,6 +24,14 @@ export default function Header({ color }) {
                 "noreferrer,noopener"
               );
   };
+
+  const resume = () => {
+    window.open(
+                `${profile.resume}`,
+                "_blank",
+                "noreferrer,noopener"
+              );
+  };
   return (
     <>
       <Heading>
@@ -65,7 +73,21 @@ export default function Header({ color }) {
             position={"relative"}
           >
             <Button
+              width='100%'
               colorScheme={color}
+              bg={`${color}.400`}
+              rounded={"full"}
+              px={6}
+              _hover={{
+                bg: `${color}.500`,
+              }}
+              onClick={resume}
+            >
+              My Resume
+            </Button>
+            <Button
+              colorScheme={color}
+              width='100%'
               bg={`${color}.400`}
               rounded={"full"}
               px={6}
@@ -74,7 +96,7 @@ export default function Header({ color }) {
               }}
               onClick={linkedin}
             >
-              Let's connect!
+              Let's Connect!
             </Button>
             <Button
               variant={"link"}

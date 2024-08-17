@@ -1,23 +1,6 @@
-## Project 1
-Description
-- Tags: Category 1
+## Lightbulb
+An work in progress 2D RPG
+- Tags: Game Dev
 - Badges:
-  - Badge [blue]
+  - Game Dev [green]
 - Buttons:
-  - Link [https://example.com]
-
-## Project 2
-Description
-- Tags: Category 2
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
-
-## Project 3
-Description
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]

@@ -1,5 +1,5 @@
 ## Point72
-- *Quantitative Analyst Intern* | Jun'24 - Aug'24
+- *Quantitative Research Analyst Intern* | Jun'24 - Aug'24
 - ![logo512](../assets/p72.jpg)
 - Tags: Quant, Data Science, Web Dev, Systems Engineering, All
 - Badges:

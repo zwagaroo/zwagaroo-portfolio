@@ -59,16 +59,25 @@ export default function Experience({ color }) {
             <Divider orientation="horizontal" />
           </Stack>
           <Center px={4}>
-            <ButtonGroup variant="outline">
-              {options.map((option) => (
-                <Button
-                  colorScheme={selected === option.value ? `${color}` : "gray"}
-                  onClick={() => handleSelected(option.value)}
-                >
-                  {option.value}
-                </Button>
-              ))}
-            </ButtonGroup>
+            <Box overflowX="auto" whiteSpace="nowrap" width="100%"    css={{
+                '&::-webkit-scrollbar': {
+                  display: 'none',
+                },
+                '-ms-overflow-style': 'none',  // for Internet Explorer, Edge
+                'scrollbar-width': 'none',  // for Firefox
+              }}>
+              <ButtonGroup variant="outline">
+                {options.map((option) => (
+                  <Button
+                    key={option.value}  // Add a key prop here
+                    colorScheme={selected === option.value ? `${color}` : "gray"}
+                    onClick={() => handleSelected(option.value)}
+                  >
+                    {option.value}
+                  </Button>
+                ))}
+              </ButtonGroup>
+            </Box>
           </Center>
           <Stack px={4} spacing={4}>
             {experience

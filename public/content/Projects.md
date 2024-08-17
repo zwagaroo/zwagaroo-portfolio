@@ -1,26 +1,36 @@
-## Project A
-Description
-- ![600x200](https://via.placeholder.com/600x200)
+## Twin Blade's Vengence
+2D Cyberpunk Fighting Game
+- ![600x200](../assets/twinblades.png)
 - Tags: Category 1
 - Badges:
-  - Badge [blue]
+  - Game Dev [green]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://wolverinesoft-studio.itch.io/twin-blades]
 
-## Project B
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 2
+## Soul of the Forest
+2D RPG
+- ![600x200](../assets/sotf_black.png)
+- Tags: Category 1
 - Badges:
-  - Badge [blue]
+  - Game Dev [green]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://wolverinesoft-studio.itch.io/soul-of-the-forest]
 
-## Project C
-Description
-- ![600x200](https://via.placeholder.com/600x200)
+## Demon Dance
+Small fun game modeled off of FNF!
+- ![600x200](../assets/demondance.png)
 - Tags: Category 3
 - Badges:
-  - Badge [blue]
+  - Game Dev [green]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://thevoices.itch.io/demon-dance]
+
+## SynthChord
+Software in Julia for transcribing and converting music using different harmonic templates for instruments 
+- ![600x200](../assets/synthchord.png)
+- Tags: Category 2
+- Badges:
+  - Software Engineering [orange]
+- Buttons:
+  - Link [https://github.com/zwagaroo/synthchord]
+

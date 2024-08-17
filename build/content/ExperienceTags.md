@@ -1,7 +1,8 @@
 All
+Research
 Quant
-Data Science
 Game Dev
+Software Engineering
+Data Science
 Web Dev
 Systems Engineering
-Research
