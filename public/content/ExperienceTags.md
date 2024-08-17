@@ -1,3 +1,7 @@
-Category 1
-Category 2
-Category 3
+All
+Quant
+Data Science
+Game Dev
+Web Dev
+Systems Engineering
+Research
