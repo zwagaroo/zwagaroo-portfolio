@@ -1,3 +1,12 @@
+## Metroid NES Recreation
+Recreation of Metroid NES
+- ![600x200](../assets/metroid.png)
+- Tags: Category 1
+- Badges:
+  - Game Dev [green]
+- Buttons:
+  - Link [https://zwagaroo.itch.io/metroid-nes-recreation]
+
 ## Twin Blade's Vengence
 2D Cyberpunk Fighting Game
 - ![600x200](../assets/twinblades.png)
