@@ -1,11 +1,21 @@
+## Neon Hacker
+Action adventure platforming game developed in Unity. I focused on creating a hacking mechanic in which players can hack access points to gain control of machines and objects in the game. 
+- ![600x200](../assets/neon_hacker.png)
+- Tags: Category 1
+- Badges:
+  - Game Dev [green]
+- Buttons:
+  - Link [https://zwagaroo.itch.io/neon-hacker-demo]
+
 ## Metroid NES Recreation
-Recreation of Metroid NES
+Recreation of Metroid NES. I focused on recreating the movement of metroid and the various enemies. This also includes a custom level which introduces a new Jetpack mechanic.
 - ![600x200](../assets/metroid.png)
 - Tags: Category 1
 - Badges:
   - Game Dev [green]
 - Buttons:
   - Link [https://zwagaroo.itch.io/metroid-nes-recreation]
+
 
 ## Twin Blade's Vengence
 2D Cyberpunk Fighting Game
